@@ -1,0 +1,21 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+.navbar {
+  padding: 10px0;
+}
+.navbar-div {
+  text-align: center;
+  margin: 0 30vw;
+}
+.nav-item {
+  margin: 0px 10px;
+  padding: 10px 30px;
+}
+.nav-item:hover {
+  transition: 200ms ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.nav-item a {
+  font-family: "Montserrat", sans-serif;
+}

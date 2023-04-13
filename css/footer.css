@@ -1,0 +1,32 @@
+footer {
+  text-align: center;
+  background-color: black;
+}
+
+footer form {
+  padding: 50px;
+}
+footer form h3 {
+  color: white;
+  font-family: "Sedgwick Ave Display", cursive;
+  font-size: 40px;
+}
+.emailbox {
+  margin-top: 20px;
+  width: 30vw;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+}
+
+.footer-btn {
+  padding: 10px 20px;
+}
+.links-list {
+  list-style: none;
+  display: inline-flex;
+}
+.footer-link {
+  text-decoration: none;
+  margin: 20px;
+}

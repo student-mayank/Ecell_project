@@ -1,0 +1,41 @@
+.name-header {
+  font-family: "Sedgwick Ave Display", cursive;
+  font-size: 80px;
+}
+
+.intro-txt {
+  text-align: right;
+  padding: 200px 20px 20px 20px;
+}
+.intro-desc {
+  font-size: 20px;
+  padding: 20px;
+}
+.into-img {
+  height: auto;
+  width: 40vw;
+}
+.about-me {
+  margin-top: 100px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.about-head {
+  font-family: "Sedgwick Ave Display", cursive;
+  font-size: 50px;
+  margin: 20px;
+}
+.about-desc {
+  margin: 20px;
+}
+.about-btn {
+  margin: 100px 20px;
+}
+.about-img {
+  text-align: center;
+}
+.about-pic {
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+}
